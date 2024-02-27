@@ -1,0 +1,5 @@
+This line is being appended to testing.txt
+And here is another line hehe
+And now I am exist!This line is being appended to testing.txt
+And here is another line hehe
+And now I am exist!
